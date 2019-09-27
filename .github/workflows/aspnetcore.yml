@@ -40,5 +40,5 @@ jobs:
     - name: test
       run: |
         cd test/DemoApp.Tests/
-        dotnet dotnet test
+        dotnet test
         
