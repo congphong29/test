@@ -1,0 +1,17 @@
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\bin\Debug\netcoreapp2.1\DemoApp.Tests.deps.json
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\bin\Debug\netcoreapp2.1\DemoApp.Tests.runtimeconfig.json
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\bin\Debug\netcoreapp2.1\DemoApp.Tests.runtimeconfig.dev.json
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\bin\Debug\netcoreapp2.1\DemoApp.Tests.dll
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\bin\Debug\netcoreapp2.1\DemoApp.Tests.pdb
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\bin\Debug\netcoreapp2.1\DemoApp.dll
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\bin\Debug\netcoreapp2.1\DemoApp.pdb
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\obj\Debug\netcoreapp2.1\DemoApp.Tests.csprojAssemblyReference.cache
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\obj\Debug\netcoreapp2.1\DemoApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\obj\Debug\netcoreapp2.1\DemoApp.Tests.AssemblyInfoInputs.cache
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\obj\Debug\netcoreapp2.1\DemoApp.Tests.AssemblyInfo.cs
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\obj\Debug\netcoreapp2.1\DemoApp.Tests.csproj.CopyComplete
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\obj\Debug\netcoreapp2.1\DemoApp.Tests.dll
+C:\Users\ArchwayFactory1\Desktop\demo-src\test\DemoApp.Tests\obj\Debug\netcoreapp2.1\DemoApp.Tests.pdb

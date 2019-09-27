@@ -1,0 +1,14 @@
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\bin\Debug\netcoreapp2.1\DemoApp.deps.json
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\bin\Debug\netcoreapp2.1\DemoApp.runtimeconfig.json
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\bin\Debug\netcoreapp2.1\DemoApp.runtimeconfig.dev.json
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\bin\Debug\netcoreapp2.1\DemoApp.dll
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\bin\Debug\netcoreapp2.1\DemoApp.pdb
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.csprojAssemblyReference.cache
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.RazorAssemblyInfo.cache
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.RazorAssemblyInfo.cs
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.AssemblyInfoInputs.cache
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.AssemblyInfo.cs
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.RazorTargetAssemblyInfo.cache
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.dll
+C:\Users\ArchwayFactory1\Desktop\demo-src\src\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.pdb
